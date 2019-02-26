@@ -1,7 +1,7 @@
 // STYLING FOR WELCOME PAGE
 
 #banner {
-	background-image: url(image-path("welcome_banner_image.jpg"));
+	background-image: url(image-path('welcome_banner_image.jpg'));
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: top center;
@@ -43,7 +43,7 @@
 }
 
 #callouts {
-	background-image: url(image-path("callout_background.jpg"));
+	background-image: url(image-path('callout_background.jpg'));
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: top center;
